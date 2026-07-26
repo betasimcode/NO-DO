@@ -178,7 +178,7 @@ Son indicadores porcentuales variables que afectan directamente a la toma de dec
 --
 
 
-![P1 HONESTIDAD](https://img.shields.io/badge/status-alpha-orange) P1 HONESTIDAD
+![P1 HONESTIDAD](https://img.shields.io/badge/P1-HONESTIDAD-orange) P1 HONESTIDAD
 
 P2 VALENTIA
 
