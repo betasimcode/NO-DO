@@ -178,15 +178,14 @@ Son indicadores porcentuales variables que afectan directamente a la toma de dec
 --
 
 
-![P1 HONESTIDAD](https://img.shields.io/badge/P1-HONESTIDAD-orange)
 
-![P2 VALENTIA](https://img.shields.io/badge/P2-VALENTIA-orange)
 
-![P3 EMPATIA](https://img.shields.io/badge/P3-EMPATIA-orange)
 
-![P4 PACIENCIA](https://img.shields.io/badge/P4-PACIENCIA-orange)
 
-![P5 VIOLENCIA](https://img.shields.io/badge/P5-VIOLENCIA-orange)
+
+
+
+
 
 ![P6 INTELIGENCIA](https://img.shields.io/badge/P6-INTELIGENCIA-orange)
 
@@ -221,7 +220,7 @@ P10 CARACTER
 
 Estos indicadores afectan y se ven afectados por otros elementos
 
-### 3.2.1 P1 HONESTIDAD
+### 3.2.1 P1 HONESTIDAD ![P1 HONESTIDAD](https://img.shields.io/badge/P1-HONESTIDAD-orange)
 
 Porcentual de 0 a 100, en bloques de:
 
@@ -250,7 +249,7 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.2 P2 VALENTIA
+### 3.2.2 P2 VALENTIA ![P2 VALENTIA](https://img.shields.io/badge/P2-VALENTIA-orange)
 
 Porcentual de 0 a 100, en bloques de:
 
@@ -279,7 +278,7 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.3 P3 EMPATIA
+### 3.2.3 P3 EMPATIA ![P3 EMPATIA](https://img.shields.io/badge/P3-EMPATIA-orange)
 
 Porcentual de 0 a 100, en bloques de:
 
@@ -308,7 +307,7 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.4 P4 PACIENCIA
+### 3.2.4 P4 PACIENCIA ![P4 PACIENCIA](https://img.shields.io/badge/P4-PACIENCIA-orange)
 
 Porcentual de 0 a 100, en bloques de:
 
@@ -337,7 +336,7 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.5 P5 VIOLENCIA
+### 3.2.5 P5 VIOLENCIA ![P5 VIOLENCIA](https://img.shields.io/badge/P5-VIOLENCIA-orange)
 
 Porcentual de 0 a 100, en bloques de:
 
