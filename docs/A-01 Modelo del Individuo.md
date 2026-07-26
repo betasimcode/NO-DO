@@ -39,16 +39,27 @@ Esta base, diferencia dos bloques estructurados, Identidad Administartiva (FILIA
 
 Es el registro que la administracion guarda sobre el individuo, son los datos identificativos dentro del censo, consta de los siguientes
 -NOMBRE:
+
 -APELLIDO 1:
+
 -APELLIDO 2:
+
 -GENERO:
+
 -FECHA DE NACIMIENTO:
+
 -LUGAR DE NACIMIENTO:
+
 -NOMBRE DE LOS PADRES:
+
 -DIRECCION POSTAL (DOMICILIO):
+
 -NUMERO DE IDENTIFICACION:
+
 -ROSTRO:
+
 -PROFESION:
+
 ---
 
 # 3 IDENTIDAD PERSONAL
