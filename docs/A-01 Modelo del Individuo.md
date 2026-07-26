@@ -194,9 +194,11 @@ P8 AMBICION
 P9 SINCERIDAD
 
 P10 CARACTER
+
 --
 
 Estos indicadores afectan y se ven afectados por otros elementos
+
 
 ### 3.2.1 P1 HONESTIDAD ![P1 HONESTIDAD](https://img.shields.io/badge/P1-HONESTIDAD-orange)
 
