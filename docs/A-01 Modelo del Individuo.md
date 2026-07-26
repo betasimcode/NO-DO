@@ -529,9 +529,46 @@ Balance del capital disposible por el sujeto. Se representa en numero por la mon
 
 Varia constantemente con la actividad economica del sujeto
 
-![E2 INGRESOS](https://img.shields.io/badge/E2-INGRESOS-green)  -  ![E3 GASTOS](https://img.shields.io/badge/E3-GASTOS-green)
+![E2 INGRESOS](https://img.shields.io/badge/E2-INGRESOS-green)
+
+![E3 GASTOS](https://img.shields.io/badge/E3-GASTOS-green)
 
 --
+
+
+### 3.3.2 INGRESOS - ![E2 INGRESOS](https://img.shields.io/badge/E2-INGRESOS-green)
+
+Dinero recibido por el sujeto, proceden del SUELDO, PAGOS y/o OBTENCIONES
+
+
+--
+
+
+### 3.3.3 GASTOS - ![E3 GASTOS](https://img.shields.io/badge/E3-GASTOS-green)
+
+Se deduce de su saldo, proceden por COMPRAS y PAGOS
+
+
+--
+
+### 3.3.4 PATRIMONIO - ![E4 PATRIMONIO](https://img.shields.io/badge/E4-PATRIMONIO-green)
+
+Activos propiedad del sujeto
+
+INMUEBLES
+
+VEHICULOS
+
+ACCIONES
+
+BONOS
+
+HERENCIAS
+
+--
+
+
+
 
 ## 3.4 ESTADO FISICO
 
