@@ -286,7 +286,7 @@ Porcentual de 0 a 100, en bloques de:
 
 - Influenciada positivamente por:
 
-![H2](https://img.shields.io/badge/H2-MILITAR-gold)  
+![H2](https://img.shields.io/badge/H2-MILITAR-gold)
 ![P3](https://img.shields.io/badge/P3-EMPATIA-blue) 
 ![E6](https://img.shields.io/badge/E6-DEUDAS-green)
 ![S4](https://img.shields.io/badge/S4-TRISTEZA-gray) 
