@@ -226,7 +226,7 @@ Porcentual de 0 a 100, en bloques de:
 
     91-100
 
-- Influenciada por ![H5 RECOMPENSAS](https://img.shields.io/badge/H5-RECOMPENSAS-green) 
+- Influenciada por ![H5 RECOMPENSAS](https://img.shields.io/badge/H5-RECOMPENSAS-RED) 
 - Influido por **POR DESARROLLAR** 
 
 --
