@@ -178,7 +178,27 @@ Son indicadores porcentuales variables que afectan directamente a la toma de dec
 --
 
 
-![P1 HONESTIDAD](https://img.shields.io/badge/P1-HONESTIDAD-orange) P1 HONESTIDAD
+![P1 HONESTIDAD](https://img.shields.io/badge/P1-HONESTIDAD-orange)
+
+![P2 VALENTIA](https://img.shields.io/badge/P2-VALENTIA-orange)
+
+![P3 EMPATIA](https://img.shields.io/badge/P3-EMPATIA-orange)
+
+![P4 PACIENCIA](https://img.shields.io/badge/P4-PACIENCIA-orange)
+
+![P5 VIOLENCIA](https://img.shields.io/badge/P5-VIOLENCIA-orange)
+
+![P6 INTELIGENCIA](https://img.shields.io/badge/P6-INTELIGENCIA-orange)
+
+![P7 PRUDENCIA](https://img.shields.io/badge/P7-PRUDENCIA-orange)
+
+![P8 AMBICION](https://img.shields.io/badge/P8-AMBICION-orange)
+
+![P9 SINCERIDAD](https://img.shields.io/badge/P9-SINCERIDAD-orange)
+
+![P10 CARACTER](https://img.shields.io/badge/P10-CARACTER-orange)
+
+
 
 P2 VALENTIA
 
