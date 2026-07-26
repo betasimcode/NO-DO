@@ -227,7 +227,7 @@ Porcentual de 0 a 100, en bloques de:
     91-100
 
 
-- Influenciada por ![H5 RECOMPENSAS](https://img.shields.io/badge/H5-RECOMPENSAS-gold) , ![P2](https://img.shields.io/badge/P2-VALENTIA-blue) 
+- Influenciada por ![H5 RECOMPENSAS](https://img.shields.io/badge/H5-RECOMPENSAS-gold) ![P2](https://img.shields.io/badge/P2-VALENTIA-blue) ![P2](https://img.shields.io/badge/P2-VALENTIA-blue) ![P3](https://img.shields.io/badge/P3-EMPATIA-blue) ![P6](https://img.shields.io/badge/P6-INTELIGENCIA-blue) ![P8](https://img.shields.io/badge/P8-AMBICION-blue) ![E7](https://img.shields.io/badge/E7-CAPACIDAD-DE-AHORRO-blue) 
 - Influido por **POR DESARROLLAR** 
 
 --
