@@ -174,8 +174,7 @@ H5 RECOMPENSAS
 
 ## 3.2 PERSONALIDAD
 
-Son indicadores porcentuales variables que afectan directamente a la toma de decisiones y comportamiento del sujeto
---
+Son indicadores porcentuales variables que afectan directamente a la toma de decisiones y comportamiento del sujeto.
 
 
 P2 VALENTIA
