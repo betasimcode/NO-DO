@@ -233,7 +233,7 @@ Porcentual de 0 a 100, en bloques de:
 ---
 - Influenciada negativamente por: 
 
-![H1](https://img.shields.io/badge/H1-ESTUDIOS-gold) ![H33](https://img.shields.io/badge/H33-PENALES-gold) ![P8](https://img.shields.io/badge/P8-AMBICION-blue) ![E6](https://img.shields.io/badge/E6-DEUDAS-green) ![F2](https://img.shields.io/badge/F2-ADICCIONES-green) ![R8](https://img.shields.io/badge/R8-POLITICA-brown)
+![H1](https://img.shields.io/badge/H1-ESTUDIOS-gold) ![H33](https://img.shields.io/badge/H33-PENALES-gold) ![P8](https://img.shields.io/badge/P8-AMBICION-blue) ![E6](https://img.shields.io/badge/E6-DEUDAS-green) ![F2](https://img.shields.io/badge/F2-ADICCIONES-orange) ![R8](https://img.shields.io/badge/R8-POLITICA-brown)
 
 ### 3.2.2 P2 VALENTIA 
 ---
