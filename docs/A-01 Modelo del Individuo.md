@@ -300,6 +300,7 @@ Porcentual de 0 a 100, en bloques de:
 ---
 - Influenciada negativamente por: 
 
+![H4](https://img.shields.io/badge/H4-NOMBRAMIENTOS-gold)
 ![E4](https://img.shields.io/badge/E4-PATRIMONIO-blue) 
 ![F4](https://img.shields.io/badge/F4-DOLENCIAS-orange) 
 ![S3](https://img.shields.io/badge/S3-NERVIOSISMO-gray) 
