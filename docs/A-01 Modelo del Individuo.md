@@ -228,6 +228,268 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
+### 3.2.2 P2 VALENTIA
+
+Porcentual de 0 a 100, en bloques de:
+
+    0-10 
+
+    11-20
+
+    21-30
+
+    22-40
+
+    41-50
+
+    51-60
+
+    61-70
+
+    71-80
+
+    81-90
+
+    91-100
+
+- Influye en **POR DESARROLLAR** 
+- Influido por **POR DESARROLLAR** 
+
+--
+
+### 3.2.3 P3 EMPATIA
+
+Porcentual de 0 a 100, en bloques de:
+
+    0-10 
+
+    11-20
+
+    21-30
+
+    22-40
+
+    41-50
+
+    51-60
+
+    61-70
+
+    71-80
+
+    81-90
+
+    91-100
+
+- Influye en **POR DESARROLLAR** 
+- Influido por **POR DESARROLLAR** 
+
+--
+
+### 3.2.4 P4 PACIENCIA
+
+Porcentual de 0 a 100, en bloques de:
+
+    0-10 
+
+    11-20
+
+    21-30
+
+    22-40
+
+    41-50
+
+    51-60
+
+    61-70
+
+    71-80
+
+    81-90
+
+    91-100
+
+- Influye en **POR DESARROLLAR** 
+- Influido por **POR DESARROLLAR** 
+
+--
+
+### 3.2.5 P5 VIOLENCIA
+
+Porcentual de 0 a 100, en bloques de:
+
+    0-10 
+
+    11-20
+
+    21-30
+
+    22-40
+
+    41-50
+
+    51-60
+
+    61-70
+
+    71-80
+
+    81-90
+
+    91-100
+
+- Influye en **POR DESARROLLAR** 
+- Influido por **POR DESARROLLAR** 
+
+--
+
+### 3.2.6 P6 INTELIGENCIA
+
+Porcentual de 0 a 100, en bloques de:
+
+    0-10 
+
+    11-20
+
+    21-30
+
+    22-40
+
+    41-50
+
+    51-60
+
+    61-70
+
+    71-80
+
+    81-90
+
+    91-100
+
+- Influye en **POR DESARROLLAR** 
+- Influido por **POR DESARROLLAR** 
+
+--
+
+### 3.2.7 P7 PRUDENCIA
+
+Porcentual de 0 a 100, en bloques de:
+
+    0-10 
+
+    11-20
+
+    21-30
+
+    22-40
+
+    41-50
+
+    51-60
+
+    61-70
+
+    71-80
+
+    81-90
+
+    91-100
+
+- Influye en **POR DESARROLLAR** 
+- Influido por **POR DESARROLLAR** 
+
+--
+
+### 3.2.8 P8 AMBICION
+
+Porcentual de 0 a 100, en bloques de:
+
+    0-10 
+
+    11-20
+
+    21-30
+
+    22-40
+
+    41-50
+
+    51-60
+
+    61-70
+
+    71-80
+
+    81-90
+
+    91-100
+
+- Influye en **POR DESARROLLAR** 
+- Influido por **POR DESARROLLAR** 
+
+--
+
+### 3.2.9 P9 SINCERIDAD
+
+Porcentual de 0 a 100, en bloques de:
+
+    0-10 
+
+    11-20
+
+    21-30
+
+    22-40
+
+    41-50
+
+    51-60
+
+    61-70
+
+    71-80
+
+    81-90
+
+    91-100
+
+- Influye en **POR DESARROLLAR** 
+- Influido por **POR DESARROLLAR** 
+
+--
+
+### 3.2.10 P10 CARACTER
+
+Porcentual de 0 a 100, en bloques de:
+
+    0-10 
+
+    11-20
+
+    21-30
+
+    22-40
+
+    41-50
+
+    51-60
+
+    61-70
+
+    71-80
+
+    81-90
+
+    91-100
+
+- Influye en **POR DESARROLLAR** 
+- Influido por **POR DESARROLLAR** 
+
+--
+
+
 ## 3.3 ECONOMIA
 
 La capacidad economica del sujeto
@@ -245,5 +507,158 @@ E5 LIQUIDEZ
 E6 DEUDAS
 
 E7 CAPACIDAD DE AHORRO
+
+--
+
+
+## 3.4 ESTADO FISICO
+
+Salud fisica del sujeto
+
+F1 BASICAS
+
+F2 ADICCIONES
+
+F3 DOLENCIAS
+
+F4 DISCAPACIDAD
+
+--
+
+### 3.4.1 F1 BASICAS
+
+    F11 ALIMENTACION
+
+    F12 DESCANSO
+
+    F13 BIOLOGICAS
+
+    F14 MEDICAMENTOS
+
+    F15 CUIDADOS
+
+#### F11 ALIMENTACION
+
+    F111 COMER
+
+    F112 BEBER
+
+#### F12 DESCANSO
+
+    F121 DORMIR
+
+#### F13 BIOLOGICAS
+
+    F131 MICCIONAR
+
+    F132 DEPONER
+
+    F133 EYACULAR
+
+--
+
+### 3.4.2 F2 ADICCIONES
+
+    F21 NINGUNA
+
+    F22 GULA
+
+    F23 MEDICAMENTOS
+
+    F24 ALCOHOL
+
+    F25 ESTUPEFACIENTES
+
+    F26 SEXO
+--
+
+### 3.4.3 F3 DOLENCIAS 
+
+- Leve 1-25
+
+- Moderada 26-50
+ 
+- Severa 51-75 
+
+- Grave 76-95
+
+- Cronica 96-100
+
+    F31 NINGUNA
+
+    F32 RESFRIADO
+
+    F33 FIEBRE
+
+    F34 NEUMONIA
+
+    F35 TUBERCULOSIS
+
+    F36 GASTROINTESTINAL
+
+    F37 CARDIACA
+
+    F38 VISUAL
+
+    F39 AMPUTACION
+--
+
+
+### 3.4.4 F4 DISCAPACIDAD
+
+Puede ser temporal o permanente
+
+    F41 NINGUNA
+
+    F42 SORDO
+
+    F43 MUDO
+
+    F44 CIEGO
+
+    F35 COJO
+
+    F36 INVALIDEZ
+
+    F37 CARDIACA
+
+    F38 VISUAL
+
+    F39 AMPUTACION
+--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## 3.4 PSICOLOGIA
+
+Salud fisica del sujeto
+
+F1 BASICAS
+
+F2 ADICCIONES
+
+F3 DOLENCIAS
+
+F4 DISCAPACIDAD
 
 --
