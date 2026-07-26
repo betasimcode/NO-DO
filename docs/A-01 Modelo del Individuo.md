@@ -178,27 +178,6 @@ Son indicadores porcentuales variables que afectan directamente a la toma de dec
 --
 
 
-
-
-
-
-
-
-
-
-
-![P6 INTELIGENCIA](https://img.shields.io/badge/P6-INTELIGENCIA-orange)
-
-![P7 PRUDENCIA](https://img.shields.io/badge/P7-PRUDENCIA-orange)
-
-![P8 AMBICION](https://img.shields.io/badge/P8-AMBICION-orange)
-
-![P9 SINCERIDAD](https://img.shields.io/badge/P9-SINCERIDAD-orange)
-
-![P10 CARACTER](https://img.shields.io/badge/P10-CARACTER-orange)
-
-
-
 P2 VALENTIA
 
 P3 EMPATIA
@@ -221,6 +200,7 @@ P10 CARACTER
 Estos indicadores afectan y se ven afectados por otros elementos
 
 ### 3.2.1 P1 HONESTIDAD ![P1 HONESTIDAD](https://img.shields.io/badge/P1-HONESTIDAD-orange)
+
 
 Porcentual de 0 a 100, en bloques de:
 
@@ -251,6 +231,7 @@ Porcentual de 0 a 100, en bloques de:
 
 ### 3.2.2 P2 VALENTIA ![P2 VALENTIA](https://img.shields.io/badge/P2-VALENTIA-orange)
 
+
 Porcentual de 0 a 100, en bloques de:
 
     0-10 
@@ -279,6 +260,7 @@ Porcentual de 0 a 100, en bloques de:
 --
 
 ### 3.2.3 P3 EMPATIA ![P3 EMPATIA](https://img.shields.io/badge/P3-EMPATIA-orange)
+
 
 Porcentual de 0 a 100, en bloques de:
 
@@ -309,6 +291,7 @@ Porcentual de 0 a 100, en bloques de:
 
 ### 3.2.4 P4 PACIENCIA ![P4 PACIENCIA](https://img.shields.io/badge/P4-PACIENCIA-orange)
 
+
 Porcentual de 0 a 100, en bloques de:
 
     0-10 
@@ -338,34 +321,6 @@ Porcentual de 0 a 100, en bloques de:
 
 ### 3.2.5 P5 VIOLENCIA ![P5 VIOLENCIA](https://img.shields.io/badge/P5-VIOLENCIA-orange)
 
-Porcentual de 0 a 100, en bloques de:
-
-    0-10 
-
-    11-20
-
-    21-30
-
-    22-40
-
-    41-50
-
-    51-60
-
-    61-70
-
-    71-80
-
-    81-90
-
-    91-100
-
-- Influye en **POR DESARROLLAR** 
-- Influido por **POR DESARROLLAR** 
-
---
-
-### 3.2.6 P6 INTELIGENCIA
 
 Porcentual de 0 a 100, en bloques de:
 
@@ -394,7 +349,8 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.7 P7 PRUDENCIA
+### 3.2.6 P6 INTELIGENCIA ![P6 INTELIGENCIA](https://img.shields.io/badge/P6-INTELIGENCIA-orange)
+
 
 Porcentual de 0 a 100, en bloques de:
 
@@ -423,7 +379,8 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.8 P8 AMBICION
+### 3.2.7 P7 PRUDENCIA ![P7 INTELIGENCIA](https://img.shields.io/badge/P7-PRUDENCIA-orange)
+
 
 Porcentual de 0 a 100, en bloques de:
 
@@ -452,7 +409,8 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.9 P9 SINCERIDAD
+### 3.2.8 P8 AMBICION ![P8 AMBICION](https://img.shields.io/badge/P8-AMBICION-orange)
+
 
 Porcentual de 0 a 100, en bloques de:
 
@@ -481,7 +439,38 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.10 P10 CARACTER
+### 3.2.9 P9 SINCERIDAD ![P9 SINCERIDAD](https://img.shields.io/badge/P9-SINCERIDAD-orange)
+
+
+Porcentual de 0 a 100, en bloques de:
+
+    0-10 
+
+    11-20
+
+    21-30
+
+    22-40
+
+    41-50
+
+    51-60
+
+    61-70
+
+    71-80
+
+    81-90
+
+    91-100
+
+- Influye en **POR DESARROLLAR** 
+- Influido por **POR DESARROLLAR** 
+
+--
+
+### 3.2.10 P10 CARACTER ![P10 CARACTER](https://img.shields.io/badge/P10-CARACTER-orange)
+
 
 Porcentual de 0 a 100, en bloques de:
 
