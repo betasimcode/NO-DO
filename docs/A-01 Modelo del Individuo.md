@@ -286,12 +286,30 @@ Porcentual de 0 a 100, en bloques de:
 
 - Influenciada positivamente por:
 
- ![H2](https://img.shields.io/badge/H2-MILITAR-gold) S![P10](https://img.shields.io/badge/P10-CARACTER-blue) ![P3](https://img.shields.io/badge/P3-EMPATIA-blue) ![P6](https://img.shields.io/badge/P6-INTELIGENCIA-blue) ![E5](https://img.shields.io/badge/E5-LIQUIDEZ-green) ![E7](https://img.shields.io/badge/E7-AHORRO-green) ![S13](https://img.shields.io/badge/P13-RESILENCIA-gray) ![R1](https://img.shields.io/badge/R1-FAMILIA-brown) ![R3](https://img.shields.io/badge/R3-LABORAL-brown) ![R7](https://img.shields.io/badge/R7-ADMINISTRACION-brown) ![M2](https://img.shields.io/badge/M2-SALUD-white) ![M8](https://img.shields.io/badge/M2-RECONOCIMIENTO-white) ![M9](https://img.shields.io/badge/M9-RELIGIONAS-white)
+![H2](https://img.shields.io/badge/H2-MILITAR-gold)  
+![P3](https://img.shields.io/badge/P3-EMPATIA-blue) 
+![E6](https://img.shields.io/badge/E6-DEUDAS-green)
+![S4](https://img.shields.io/badge/S4-TRISTEZA-gray) 
+![S6](https://img.shields.io/badge/S6-ORGULLO-gray) 
+![S12](https://img.shields.io/badge/S12-PERSEVERANCIA-gray)
+![S13](https://img.shields.io/badge/S13-RESILENCIA-gray) 
+![S15](https://img.shields.io/badge/S15-ESPERANZA-gray)
+![S17](https://img.shields.io/badge/S17-AUTOESTIMA-gray) 
+![M8](https://img.shields.io/badge/M8-RECONOCIMIENTO-white) 
+
 ---
+- Influenciada negativamente por: 
 
-- Influido por **POR DESARROLLAR** 
+![E4](https://img.shields.io/badge/E4-PATRIMONIO-blue) 
+![F4](https://img.shields.io/badge/F4-DOLENCIAS-orange) 
+![S3](https://img.shields.io/badge/S3-NERVIOSISMO-gray) 
+![S9](https://img.shields.io/badge/S9-DOLENCIAS-gray)
+![R1](https://img.shields.io/badge/R1-FAMILIAR-brown) 
+![M1](https://img.shields.io/badge/M1-ECONOMICAS-white) 
+![M2](https://img.shields.io/badge/M2-SALUD-white) 
 
---
+
+---
 
 ### 3.2.3 P3 EMPATIA 
 
