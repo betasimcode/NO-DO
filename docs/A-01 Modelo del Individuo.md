@@ -175,6 +175,8 @@ H5 RECOMPENSAS
 ## 3.2 PERSONALIDAD
 
 Son indicadores porcentuales variables que afectan directamente a la toma de decisiones y comportamiento del sujeto
+--
+
 
 P1 HONESTIDAD
 
@@ -195,8 +197,8 @@ P8 AMBICION
 P9 SINCERIDAD
 
 P10 CARACTER
-
 --
+
 Estos indicadores afectan y se ven afectados por otros elementos
 
 ### 3.2.1 P1 HONESTIDAD
