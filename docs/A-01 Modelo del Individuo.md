@@ -201,7 +201,37 @@ Son indicadores porcentuales variables que afectan directamente a la toma de dec
 Estos indicadores afectan y se ven afectados por otros elementos
 
 
-### 3.2.1 P1 HONESTIDAD ![P1 HONESTIDAD](https://img.shields.io/badge/P1-HONESTIDAD-orange)
+### 3.2.1 P1 HONESTIDAD 
+
+
+Porcentual de 0 a 100, en bloques de:
+
+    0-10 
+
+    11-20
+
+    21-30
+
+    22-40
+
+    41-50
+
+    51-60
+
+    61-70
+
+    71-80
+
+    81-90
+
+    91-100
+
+- Influenciada por ![H5 RECOMPENSAS](https:/H5-RECOMPENSAS-green) 
+- Influido por **POR DESARROLLAR** 
+
+--
+
+### 3.2.2 P2 VALENTIA 
 
 
 Porcentual de 0 a 100, en bloques de:
@@ -231,7 +261,7 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.2 P2 VALENTIA ![P2 VALENTIA](https://img.shields.io/badge/P2-VALENTIA-orange)
+### 3.2.3 P3 EMPATIA 
 
 
 Porcentual de 0 a 100, en bloques de:
@@ -261,7 +291,7 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.3 P3 EMPATIA ![P3 EMPATIA](https://img.shields.io/badge/P3-EMPATIA-orange)
+### 3.2.4 P4 PACIENCIA 
 
 
 Porcentual de 0 a 100, en bloques de:
@@ -291,7 +321,7 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.4 P4 PACIENCIA ![P4 PACIENCIA](https://img.shields.io/badge/P4-PACIENCIA-orange)
+### 3.2.5 P5 VIOLENCIA 
 
 
 Porcentual de 0 a 100, en bloques de:
@@ -321,7 +351,7 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.5 P5 VIOLENCIA ![P5 VIOLENCIA](https://img.shields.io/badge/P5-VIOLENCIA-orange)
+### 3.2.6 P6 INTELIGENCIA 
 
 
 Porcentual de 0 a 100, en bloques de:
@@ -351,7 +381,7 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.6 P6 INTELIGENCIA ![P6 INTELIGENCIA](https://img.shields.io/badge/P6-INTELIGENCIA-orange)
+### 3.2.7 P7 PRUDENCIA 
 
 
 Porcentual de 0 a 100, en bloques de:
@@ -381,7 +411,7 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.7 P7 PRUDENCIA ![P7 INTELIGENCIA](https://img.shields.io/badge/P7-PRUDENCIA-orange)
+### 3.2.8 P8 AMBICION 
 
 
 Porcentual de 0 a 100, en bloques de:
@@ -411,7 +441,7 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.8 P8 AMBICION ![P8 AMBICION](https://img.shields.io/badge/P8-AMBICION-orange)
+### 3.2.9 P9 SINCERIDAD 
 
 
 Porcentual de 0 a 100, en bloques de:
@@ -441,37 +471,7 @@ Porcentual de 0 a 100, en bloques de:
 
 --
 
-### 3.2.9 P9 SINCERIDAD ![P9 SINCERIDAD](https://img.shields.io/badge/P9-SINCERIDAD-orange)
-
-
-Porcentual de 0 a 100, en bloques de:
-
-    0-10 
-
-    11-20
-
-    21-30
-
-    22-40
-
-    41-50
-
-    51-60
-
-    61-70
-
-    71-80
-
-    81-90
-
-    91-100
-
-- Influye en **POR DESARROLLAR** 
-- Influido por **POR DESARROLLAR** 
-
---
-
-### 3.2.10 P10 CARACTER ![P10 CARACTER](https://img.shields.io/badge/P10-CARACTER-orange)
+### 3.2.10 P10 CARACTER 
 
 
 Porcentual de 0 a 100, en bloques de:
@@ -523,20 +523,17 @@ E7 CAPACIDAD DE AHORRO
 --
 
 
-### 3.3.1 SALDO - ![E1 SALDO](https://img.shields.io/badge/E1-SALDO-green)
+### 3.3.1 SALDO 
 
 Balance del capital disposible por el sujeto. Se representa en numero por la moneda utilizada en el juego.
 
 Varia constantemente con la actividad economica del sujeto
 
-![E2 INGRESOS](https://img.shields.io/badge/E2-INGRESOS-green)
-
-![E3 GASTOS](https://img.shields.io/badge/E3-GASTOS-green)
 
 --
 
 
-### 3.3.2 INGRESOS - ![E2 INGRESOS](https://img.shields.io/badge/E2-INGRESOS-green)
+### 3.3.2 INGRESOS 
 
 Dinero recibido por el sujeto, proceden del SUELDO, PAGOS y/o OBTENCIONES
 
@@ -544,14 +541,14 @@ Dinero recibido por el sujeto, proceden del SUELDO, PAGOS y/o OBTENCIONES
 --
 
 
-### 3.3.3 GASTOS - ![E3 GASTOS](https://img.shields.io/badge/E3-GASTOS-green)
+### 3.3.3 GASTOS 
 
 Se deduce de su saldo, proceden por COMPRAS y PAGOS
 
 
 --
 
-### 3.3.4 PATRIMONIO - ![E4 PATRIMONIO](https://img.shields.io/badge/E4-PATRIMONIO-green)
+### 3.3.4 PATRIMONIO
 
 Activos propiedad del sujeto
 
