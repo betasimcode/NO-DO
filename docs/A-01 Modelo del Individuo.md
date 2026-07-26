@@ -176,24 +176,25 @@ H5 RECOMPENSAS
 
 Son indicadores porcentuales variables que afectan directamente a la toma de decisiones y comportamiento del sujeto.
 
+    P1 HONESTIDAD
 
-P2 VALENTIA
+    P2 VALENTIA
 
-P3 EMPATIA
+    P3 EMPATIA
 
-P4 PACIENCIA
+    P4 PACIENCIA
 
-P5 VIOLENCIA
+    P5 VIOLENCIA
 
-P6 INTELIGENCIA
+    P6 INTELIGENCIA
 
-P7 PRUDENCIA
+    P7 PRUDENCIA
 
-P8 AMBICION
+    P8 AMBICION
 
-P9 SINCERIDAD
+    P9 SINCERIDAD
 
-P10 CARACTER
+    P10 CARACTER
 
 --
 
