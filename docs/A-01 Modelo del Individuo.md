@@ -523,6 +523,16 @@ E7 CAPACIDAD DE AHORRO
 --
 
 
+### 3.3.1 ![E1 SALDO](https://img.shields.io/badge/E1-SALDO-green)
+
+Balance del capital disposible por el sujeto. Se representa en numero por la moneda utilizada en el juego.
+
+Varia constantemente con la actividad economica del sujeto
+
+![E2 INGRESOS](https://img.shields.io/badge/E2-INGRESOS-green) - ![E3 GASTOS](https://img.shields.io/badge/E3-GASTOS-green)
+
+--
+
 ## 3.4 ESTADO FISICO
 
 Salud fisica del sujeto
