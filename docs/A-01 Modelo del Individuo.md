@@ -258,9 +258,9 @@ Porcentual de 0 a 100, en bloques de:
 ![M4](https://img.shields.io/badge/M4-POLITICA-white) 
 ![M5](https://img.shields.io/badge/M5-PODER-white) 
 ![M10](https://img.shields.io/badge/M10-ADICTIVAS-white)
-
-### 3.2.2 P2 VALENTIA 
 ---
+### 3.2.2 P2 VALENTIA 
+
 
 Porcentual de 0 a 100, en bloques de:
 
@@ -309,8 +309,8 @@ Porcentual de 0 a 100, en bloques de:
 ![M1](https://img.shields.io/badge/M1-ECONOMICAS-white) 
 ![M2](https://img.shields.io/badge/M2-SALUD-white) 
 ![S14](https://img.shields.io/badge/S14-MIEDO-gray) 
----
 
+---
 ### 3.2.3 P3 EMPATIA 
 
 
@@ -365,8 +365,8 @@ Porcentual de 0 a 100, en bloques de:
 ![M4](https://img.shields.io/badge/M4-POLITICA-white) 
 ![M5](https://img.shields.io/badge/M5-PODER-white) 
 
----
 
+---
 ### 3.2.4 P4 PACIENCIA 
 
 
