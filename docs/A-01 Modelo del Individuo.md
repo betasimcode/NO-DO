@@ -296,7 +296,6 @@ Porcentual de 0 a 100, en bloques de:
 ![S15](https://img.shields.io/badge/S15-ESPERANZA-gray)
 ![S17](https://img.shields.io/badge/S17-AUTOESTIMA-gray) 
 ![M8](https://img.shields.io/badge/M8-RECONOCIMIENTO-white) 
-
 ---
 - Influenciada negativamente por: 
 
@@ -353,7 +352,6 @@ Porcentual de 0 a 100, en bloques de:
 ![A4](https://img.shields.io/badge/A4-MEDICO-brown)
 ![M2](https://img.shields.io/badge/M2-SALUD-white)
 ![M3](https://img.shields.io/badge/M3-SOCIAL-white)
-
 ---
 - Influenciada negativamente por: 
 
