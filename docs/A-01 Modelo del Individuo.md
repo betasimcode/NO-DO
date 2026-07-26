@@ -227,17 +227,16 @@ Porcentual de 0 a 100, en bloques de:
     91-100
 
 
-- Influenciada positivamente por:
----
- ![H5](https://img.shields.io/badge/H5-RECOMPENSAS-gold) ![P2](https://img.shields.io/badge/P2-VALENTIA-blue) ![P3](https://img.shields.io/badge/P3-EMPATIA-blue) ![P6](https://img.shields.io/badge/P6-INTELIGENCIA-blue) ![E5](https://img.shields.io/badge/E5-LIQUIDEZ-green) ![E7](https://img.shields.io/badge/E7-AHORRO-green) ![R1](https://img.shields.io/badge/R1-FAMILIA-brown) ![R3](https://img.shields.io/badge/R3-LABORAL-brown) ![R7](https://img.shields.io/badge/R7-ADMINISTRACION-brown) ![M2](https://img.shields.io/badge/M2-SALUD-white) ![M8](https://img.shields.io/badge/M2-RECONOCIMIENTO-white) ![M9](https://img.shields.io/badge/M9-RELIGIONAS-white)
+- Influenciada positivamente por el nivel de:
 
-- Influenciada negativamente por: 
+ ![H1](https://img.shields.io/badge/H1-ESTUDIOS-gold) ![H5](https://img.shields.io/badge/H5-RECOMPENSAS-gold) S![P2](https://img.shields.io/badge/P2-VALENTIA-blue) ![P3](https://img.shields.io/badge/P3-EMPATIA-blue) ![P6](https://img.shields.io/badge/P6-INTELIGENCIA-blue) ![E5](https://img.shields.io/badge/E5-LIQUIDEZ-green) ![E7](https://img.shields.io/badge/E7-AHORRO-green) ![R1](https://img.shields.io/badge/R1-FAMILIA-brown) ![R3](https://img.shields.io/badge/R3-LABORAL-brown) ![R7](https://img.shields.io/badge/R7-ADMINISTRACION-brown) ![M2](https://img.shields.io/badge/M2-SALUD-white) ![M8](https://img.shields.io/badge/M2-RECONOCIMIENTO-white) ![M9](https://img.shields.io/badge/M9-RELIGIONAS-white)
 ---
-![P8](https://img.shields.io/badge/P8-AMBICION-blue)
---
+- Influenciada negativamente por: 
+
+![H1](https://img.shields.io/badge/H1-ESTUDIOS-gold) ![H33](https://img.shields.io/badge/H33-PENALES-gold) ![P8](https://img.shields.io/badge/P8-AMBICION-blue)
 
 ### 3.2.2 P2 VALENTIA 
-
+---
 
 Porcentual de 0 a 100, en bloques de:
 
