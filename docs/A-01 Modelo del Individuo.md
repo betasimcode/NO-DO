@@ -38,27 +38,27 @@ Esta base, diferencia dos bloques estructurados, Identidad Administartiva (FILIA
 ## 2.2 FILIACION
 
 Es el registro que la administracion guarda sobre el individuo, son los datos identificativos dentro del censo, consta de los siguientes
--NOMBRE:
+NOMBRE:
 
--APELLIDO 1:
+APELLIDO 1:
 
--APELLIDO 2:
+APELLIDO 2:
 
--GENERO:
+GENERO:
 
--FECHA DE NACIMIENTO:
+FECHA DE NACIMIENTO:
 
--LUGAR DE NACIMIENTO:
+LUGAR DE NACIMIENTO:
 
--NOMBRE DE LOS PADRES:
+NOMBRE DE LOS PADRES:
 
--DIRECCION POSTAL (DOMICILIO):
+DIRECCION POSTAL (DOMICILIO):
 
--NUMERO DE IDENTIFICACION:
+NUMERO DE IDENTIFICACION:
 
--ROSTRO:
+ROSTRO:
 
--PROFESION:
+PROFESION:
 
 ---
 
@@ -71,18 +71,27 @@ En NO&DO se estructuran de la siguiente forma MODELO -> Items
 
 Funcionan como potenciadores de actitud
 
--H1 ESTUDIOS 
--H2 SERVICIO MILITAR 
--H3 ANTECEDENTES
--H4 NOMBRAMIENTOS
--H5 RECOMPENSAS
+H1 ESTUDIOS
+
+H2 SERVICIO MILITAR 
+
+H3 ANTECEDENTES
+
+H4 NOMBRAMIENTOS
+
+H5 RECOMPENSAS
+
 --
 ### 3.1.1 H1 ESTUDIOS
 
--HE1 SIN ESTUDIOS
--HE2 PRIMARIA
--HE3 SECUNDARIA
--HE4 UNIVERSITARIOS 
+HE1 SIN ESTUDIOS
+
+HE2 PRIMARIA
+
+HE3 SECUNDARIA
+
+HE4 UNIVERSITARIOS 
+
 --
 
 
@@ -91,16 +100,26 @@ Funcionan como potenciadores de actitud
 
 Son indicadores porcentuales variables que afectan directamente a la toma de decisiones y comportamiento del sujeto
 
--P1 HONESTIDAD
--P2 VALENTIA
--P3 EMPATIA
--P4 PACIENCIA
--P5 VIOLENCIA
--P6 INTELIGENCIA
--P7 PRUDENCIA
--P8 AMBICION
--P9 SINCERIDAD
--P10 CARACTER
+P1 HONESTIDAD
+
+P2 VALENTIA
+
+P3 EMPATIA
+
+P4 PACIENCIA
+
+P5 VIOLENCIA
+
+P6 INTELIGENCIA
+
+P7 PRUDENCIA
+
+P8 AMBICION
+
+P9 SINCERIDAD
+
+P10 CARACTER
+
 --
 Estos indicadores afectan y se ven afectados por otros elementos
 
@@ -111,10 +130,17 @@ Estos indicadores afectan y se ven afectados por otros elementos
 La capacidad economica del sujeto
 
 E1 SALDO
+
 E2 INGRESOS
+
 E3 GASTOS
+
 E4 PATRIMONIO
+
 E5 LIQUIDEZ
+
 E6 DEUDAS
+
 E7 CAPACIDAD DE AHORRO
+
 --
