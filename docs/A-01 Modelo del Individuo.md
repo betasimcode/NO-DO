@@ -250,7 +250,7 @@ Porcentual de 0 a 100, en bloques de:
 ![H33](https://img.shields.io/badge/H33-PENALES-gold) 
 ![P8](https://img.shields.io/badge/P8-AMBICION-blue) 
 ![E6](https://img.shields.io/badge/E6-DEUDAS-green) 
-![F2](https://img.shields.io/badge/F2-ADICCIONES-orange) 
+![F3](https://img.shields.io/badge/F3-ADICCIONES-orange) 
 ![S7](https://img.shields.io/badge/S7-ODIO-gray) 
 ![S8](https://img.shields.io/badge/S8-ENVIDIA-gray)
 ![R8](https://img.shields.io/badge/R8-POLITICA-brown) 
@@ -301,6 +301,7 @@ Porcentual de 0 a 100, en bloques de:
 - Influenciada negativamente por: 
 
 ![H4](https://img.shields.io/badge/H4-NOMBRAMIENTOS-gold)
+![P6](https://img.shields.io/badge/P6-INTELIGENCIA-blue) 
 ![E4](https://img.shields.io/badge/E4-PATRIMONIO-blue) 
 ![F4](https://img.shields.io/badge/F4-DOLENCIAS-orange) 
 ![S3](https://img.shields.io/badge/S3-NERVIOSISMO-gray) 
@@ -308,8 +309,7 @@ Porcentual de 0 a 100, en bloques de:
 ![R1](https://img.shields.io/badge/R1-FAMILIAR-brown) 
 ![M1](https://img.shields.io/badge/M1-ECONOMICAS-white) 
 ![M2](https://img.shields.io/badge/M2-SALUD-white) 
-
-
+![S14](https://img.shields.io/badge/S14-MIEDO-gray) 
 ---
 
 ### 3.2.3 P3 EMPATIA 
@@ -337,10 +337,37 @@ Porcentual de 0 a 100, en bloques de:
 
     91-100
 
-- Influye en **POR DESARROLLAR** 
-- Influido por **POR DESARROLLAR** 
 
---
+- Influenciada positivamente por:
+
+![P3](https://img.shields.io/badge/P3-EMPATIA-blue) 
+![P6](https://img.shields.io/badge/P6-INTELIGENCIA-blue)
+![F4](https://img.shields.io/badge/F4-DOLENCIAS-orange) 
+![S2](https://img.shields.io/badge/S2-TEMPLE-gray)
+![S4](https://img.shields.io/badge/S4-TRISTEZA-gray)  
+![S13](https://img.shields.io/badge/S13-RESILENCIA-gray) 
+![S15](https://img.shields.io/badge/S15-ESPERANZA-gray)
+![S17](https://img.shields.io/badge/S17-AUTOESTIMA-gray) 
+![R1](https://img.shields.io/badge/R1-FAMILIAR-brown) 
+![R2](https://img.shields.io/badge/R2-AMISTAD-brown)
+![A4](https://img.shields.io/badge/A4-MEDICO-brown)
+![M2](https://img.shields.io/badge/M2-SALUD-white)
+![M3](https://img.shields.io/badge/M3-SOCIAL-white)
+
+---
+- Influenciada negativamente por: 
+
+![H33](https://img.shields.io/badge/H33-PENALES-gold) 
+![P8](https://img.shields.io/badge/P8-AMBICION-blue)
+![F3](https://img.shields.io/badge/F3-ADICCIONES-orange)
+![S7](https://img.shields.io/badge/S7-ODIO-gray)
+![S8](https://img.shields.io/badge/S8-ENVIDIA-gray)
+![S14](https://img.shields.io/badge/S14-MIEDO-gray)
+![R8](https://img.shields.io/badge/R8-POLITICA-brown) 
+![M4](https://img.shields.io/badge/M4-POLITICA-white) 
+![M5](https://img.shields.io/badge/M5-PODER-white) 
+
+---
 
 ### 3.2.4 P4 PACIENCIA 
 
