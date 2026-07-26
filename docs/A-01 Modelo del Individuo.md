@@ -652,19 +652,3 @@ Puede ser temporal o permanente
 
 
 
-
-
-
-## 3.4 PSICOLOGIA
-
-Salud fisica del sujeto
-
-F1 BASICAS
-
-F2 ADICCIONES
-
-F3 DOLENCIAS
-
-F4 DISCAPACIDAD
-
---
