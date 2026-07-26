@@ -583,6 +583,7 @@ F4 DISCAPACIDAD
 - Grave 76-95
 
 - Cronica 96-100
+--
 
     F31 NINGUNA
 
@@ -607,6 +608,7 @@ F4 DISCAPACIDAD
 ### 3.4.4 F4 DISCAPACIDAD
 
 Puede ser temporal o permanente
+--
 
     F41 NINGUNA
 
